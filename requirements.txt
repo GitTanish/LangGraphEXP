@@ -1,2 +1,6 @@
 dotenv
 langchain_community
+langgraph
+langchain
+groq
+langchain_groq
